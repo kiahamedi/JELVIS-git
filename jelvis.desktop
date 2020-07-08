@@ -1,0 +1,10 @@
+[Desktop Entry]
+Comment=JELVIS
+Exec=bash /home/kia/JELVIS/jelvis
+Icon=/home/kia/JELVIS/icons/jelvis.png
+MimeType=x-scheme-handler/tg;
+Name=JELVIS
+StartupWMClass=JELVIS
+Terminal=false
+Type=Application
+Version=1.0
