@@ -145,7 +145,7 @@ if __name__ == '__main__':
 
 
     # Tray icon and menu
-    trayIcon = QSystemTrayIcon(QIcon('icons/jelvis_try.png'), parent=app)
+    trayIcon = QSystemTrayIcon(QIcon('/usr/share/icons/jelvis_try.png'), parent=app)
     trayIcon.setToolTip('JELVIS 1.0.2')
     trayIcon.show()
     menu = QMenu()
