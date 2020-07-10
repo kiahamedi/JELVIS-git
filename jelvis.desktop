@@ -1,6 +1,6 @@
 [Desktop Entry]
 Comment=JELVIS
-Exec=bash /usr/bin/jelvis
+Exec=bash /usr/bin/jelvis-assistant
 Icon=/usr/share/icons/jelvis.png
 MimeType=x-scheme-handler/tg;
 Name=JELVIS
